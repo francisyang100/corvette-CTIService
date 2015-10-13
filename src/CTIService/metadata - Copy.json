@@ -1,0 +1,36 @@
+{
+  "compilerOptions": {
+    "noImplicitAny": false,
+    "noEmitOnError": true,
+    "removeComments": false,
+    "sourceMap": true,
+    "target": "es5"
+  },
+
+  "service_name": "CTIService",
+  "serviceid": "141",
+  "language": "dotnet",
+  "port": 80,
+  "version": "0.9",
+  "runtime_version": "1.1",
+  "aws_region": "us-west-2",
+  "log_level": 2,
+  "log_endpoint": "network-develop-LogStream-1QZ9PTO118OFY",
+  "s3_home": "ecs-na-report/debug",
+  "instance_document":{  
+    "devpayProductCodes":null,
+    "privateIp":"172.20.109.165",
+    "availabilityZone":"us-west-2c",
+    "version":"2010-08-31",
+    "accountId":"689895814885",
+    "instanceId":"i-f7be543f",
+    "billingProducts":null,
+    "imageId":"ami-99be87a9",
+    "instanceType":"t2.small",
+    "kernelId":null,
+    "ramdiskId":null,
+    "pendingTime":"2015-06-08T20:40:59Z",
+    "architecture":"x86_64",
+    "region": "us-west-2"
+  }
+}
